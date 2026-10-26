@@ -1,0 +1,18 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "flip-box-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/flipBox/FlipBoxWebPart.js",
+          "manifest": "./src/webparts/flipBox/FlipBoxWebPart.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "FlipBoxWebPartStrings": "lib/webparts/flipBox/loc/{locale}.js"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "18.20.8",
+    "sdksVersions": {},
+    "version": "1.21.1",
+    "libraryName": "flip-box",
+    "libraryId": "8b5dfa67-10c7-4130-934c-a46acd143c4f",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "flip-box",
+    "solutionShortDescription": "flip-box description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}

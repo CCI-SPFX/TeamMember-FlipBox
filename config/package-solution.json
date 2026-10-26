@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "flip-box-Team-Members",
+    "id": "8b5dfa67-10c7-4130-934c-a46acd143c4f",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.21.1"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "flip-box description"
+      },
+      "longDescription": {
+        "default": "flip-box description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "flip-box Feature",
+        "description": "The feature that activates elements of the flip-box solution.",
+        "id": "2c1c8c41-bb89-4f2b-b7f8-5b6fbacffb79",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/flip-box.sppkg"
+  }
+}
